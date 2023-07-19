@@ -72,3 +72,6 @@ SourceArt/**/*.tga
 
 # Cache files for the editor to use
 **/DerivedDataCache/*
+
+#8kTexture ignore
+**/*8k*.uasset
